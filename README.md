@@ -54,4 +54,4 @@ https://github.com/kc01-8/EU4-Macros/assets/24488686/c759070b-f2e3-47ce-bd59-2e5
 
 #### Important
 Please note you will have to do the last page manually in most cases.
-You need the program [Auto Hot Key](https://github.com/AutoHotkey/AutoHotkey/releases) to open the macros.
+You need the program [Auto Hot Key](https://github.com/AutoHotkey/AutoHotkey/releases) to open the macro.
