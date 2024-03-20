@@ -1,8 +1,15 @@
 # EU4-Macros
 A few macros for Europa Universalis IV
 
-The "Burgundy" macro is used for a strategy with the burgundian inheritance which requires giving every province but your capital to burgundy. Instead of clicking for 15 minutes you can use it.
+## Burgundy Macro
+-The "Burgundy" macro is used for a strategy with the burgundian inheritance which requires giving every province but your capital to burgundy. Instead of clicking for 15 minutes you can use it.
+-To use it, simply open the file and press F3 after you have gone to your vassals menu and clicked on burgundy, as shown.
 
-The "State_Unstate" macro will either unstate or restate all of your states for you automatically.
 
+## State Unstate
+-The "State Unstate" macro will either unstate or restate all of your states for you automatically.
+-To use it, open the file and press F2 after you have opened the states menu in the outliner.
+
+#### Important
 Please note you will have to do the last page manually in most cases.
+You need the program [Auto Hot Key](https://github.com/AutoHotkey/AutoHotkey/releases) to open the macros.
