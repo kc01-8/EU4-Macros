@@ -3,9 +3,11 @@ A few macros for Europa Universalis IV
 
 - [Download this macro](https://github.com/kc01-8/EU4-Macros/releases/download/macro/EU4.ahk)
 
-#### Use by pressing F1-F5
-#### Press F9 at any time to cancel
-#### A guide to each button is below:
+Use by pressing F1-F5
+Press F9 at any time to cancel
+A guide to each button is below:
+
+
 
 ## F1: Simple Autoclick
 - Nothing crazy here, just a normal autoclicker if you need it.
